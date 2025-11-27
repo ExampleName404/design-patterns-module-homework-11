@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Страница-1" id="crtnw_vlq5YZoif7TM0c">
+    <mxGraphModel dx="3033" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vs6v9fepYlUncxq56a37-105" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="660" width="2324" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vs6v9fepYlUncxq56a37-106" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="690" width="2354" x="-30" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="2" parent="vs6v9fepYlUncxq56a37-105" style="whiteSpace=wrap;strokeWidth=2;" value="External Systems" vertex="1">
+          <mxGeometry height="104" width="459" x="194" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="vs6v9fepYlUncxq56a37-105" style="whiteSpace=wrap;strokeWidth=2;" value="Database" vertex="1">
+          <mxGeometry height="104" width="1129" x="674" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="vs6v9fepYlUncxq56a37-105" style="whiteSpace=wrap;strokeWidth=2;" value="Backend" vertex="1">
+          <mxGeometry height="281" width="1825" y="177" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="vs6v9fepYlUncxq56a37-105" style="whiteSpace=wrap;strokeWidth=2;" value="Frontend" vertex="1">
+          <mxGeometry height="305" width="431" x="1845" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Web-приложение для клиентов" vertex="1">
+          <mxGeometry height="78" width="230" x="1921" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Мобильное приложение для курьеров" vertex="1">
+          <mxGeometry height="78" width="230" x="2011" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Серверная логика" vertex="1">
+          <mxGeometry height="54" width="164" x="1059" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Модуль оптимизации маршрутов" vertex="1">
+          <mxGeometry height="78" width="230" x="35" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Модуль интеграции с курьерскими службами" vertex="1">
+          <mxGeometry height="78" width="230" x="315" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Модуль управления складом" vertex="1">
+          <mxGeometry height="78" width="230" x="595" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Система уведомлений" vertex="1">
+          <mxGeometry height="54" width="195" x="1335" y="214" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Система аналитики" vertex="1">
+          <mxGeometry height="54" width="174" x="1580" y="214" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Хранение заказов" vertex="1">
+          <mxGeometry height="54" width="162" x="1606" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Хранение товаров" vertex="1">
+          <mxGeometry height="54" width="164" x="1392" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Хранение клиентов" vertex="1">
+          <mxGeometry height="54" width="174" x="1169" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Хранение маршрутов" vertex="1">
+          <mxGeometry height="54" width="187" x="932" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Хранение курьеров" vertex="1">
+          <mxGeometry height="54" width="173" x="709" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Courier Service API" vertex="1">
+          <mxGeometry height="54" width="166" x="229" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="vs6v9fepYlUncxq56a37-105" style="rounded=1;arcSize=20;strokeWidth=2" value="Payment System API" vertex="1">
+          <mxGeometry height="54" width="174" x="445" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="21" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="6" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.5;entryY=0;" target="7" value="REST API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2126" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="6" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.99;entryY=0.33;" target="8" value="REST API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1946" y="140" />
+              <mxPoint x="1946" y="305" />
+              <mxPoint x="1724" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.35;" target="8" value="REST API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2126" y="305" />
+              <mxPoint x="1775" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.64;entryX=0.5;entryY=0;" target="14" value="SQL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1687" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.74;entryX=0.5;entryY=0;" target="15" value="SQL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1474" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=0;" target="16" value="SQL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;" target="17" value="SQL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1025" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;" target="18" value="SQL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.4;" target="8" value="Route Optimization API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="10" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0;entryY=0.33;" target="8" value="Courier API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="305" />
+              <mxPoint x="563" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="10" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0;entryY=0.36;" target="8" value="Webhook">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="471" y="305" />
+              <mxPoint x="471" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.27;" target="8" value="Inventory API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="12" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.17;" target="8" value="Notification Service">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1433" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="13" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.32;" target="8" value="Report API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1667" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="10" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;" target="19" value="API Call">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" edge="1" parent="vs6v9fepYlUncxq56a37-105" source="8" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;" target="20" value="Payment Processing">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="532" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
